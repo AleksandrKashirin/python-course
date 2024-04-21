@@ -98,3 +98,5 @@ curl localhost:8000/probe
 Наш сервис должен ответить текстом "ОК" в консоли.
 
 Пока наш сервис не предоставляет никаких метрик в Prometheus, но в шаге 3 мы исправим это.
+
+![TargetUp](./assets/katacoda_prom_target_up.png)
