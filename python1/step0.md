@@ -23,3 +23,4 @@ python3 test_cases.py TestAssignment0
 ```{{execute}}
 
 
+![TargetUp](./assets/katacoda_prom_target_up.png)
